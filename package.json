@@ -3,6 +3,8 @@
   "workspaces": [
     "desktop",
     "ui",
-    "webapp"
+    "webapp",
+    "cli",
+    "core"
   ]
 }
