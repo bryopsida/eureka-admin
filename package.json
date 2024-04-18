@@ -1,0 +1,8 @@
+{
+  "name": "@bryopsida/eureka-admin-workspace",
+  "workspaces": [
+    "desktop",
+    "ui",
+    "webapp"
+  ]
+}
